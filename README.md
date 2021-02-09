@@ -1,1 +1,1 @@
-# Reage
+# Reagents Laboratory
