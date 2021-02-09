@@ -1,4 +1,6 @@
 /vendor/
+
+### Laravel ###
 node_modules/
 npm-debug.log
 yarn-error.log
@@ -21,3 +23,7 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+# Laravel IDE helper
+*.meta.*
+_ide_*
